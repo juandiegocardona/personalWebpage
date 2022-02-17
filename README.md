@@ -1,7 +1,7 @@
 ***
 # Author
 Author : **Juan Diego Cardona** 
-[Personal website](Link)
+[Personal website](https://juandiegocardona.github.io/personalWebsite/)
 ***
 
 # Project Goal
